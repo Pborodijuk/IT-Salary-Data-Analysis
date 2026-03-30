@@ -35,3 +35,9 @@ Na podstawie zebranych danych, rekomenduje się:
 2. Docelowe aplikowanie do średnich i dużych firm.
 3. Skupienie się na wysokopłatnych technologiach takich jak Java czy Python.
 4. Cierpliwość – z powodu bardzo silnej korelacji stażu z zarobkami, początkowe mniejsze stawki szybko rosną wraz z nabywanym doświadczeniem.
+<img width="414" height="485" alt="image" src="https://github.com/user-attachments/assets/3b824093-f76d-457b-94cb-ae5613790b82" />
+<img width="412" height="499" alt="image" src="https://github.com/user-attachments/assets/d2f189c2-3f1b-4b88-820d-99ba6e79ea54" />
+<img width="408" height="239" alt="image" src="https://github.com/user-attachments/assets/11ec817d-cf2c-411b-84f6-e475ddc063f4" />
+
+
+
